@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    background-image: url('https://caelum-online-public.s3.amazonaws.com/imersao-dev-3/bg.png');
+    background-color: #000000;
+    background-size: 60vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-position-y: 380px;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:#ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#ffffff;
+    margin-top: 5px;
+  }
+  
+  .legenda-medias {
+    color: #ffffff;
+    position: left;
+  }
+   
+  fieldset {
+    background-color: #000000;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    width: 300px;
+    top: -845px;
+
+  }
+
+  .media-1{
+    color: #ffffff;
+  }
+
+  .media-2{
+    color: #ffffff;
+  }
+
+  .media-3{
+    color: #ffffff;
+  }
+
+  .media-4{
+    color: #ffffff;
+  }
+
+  .button {
+    width: 65px;
+    height: 20px;
+  }
