@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto Mono',monospace;
-    background-image: url('https://caelum-online-public.s3.amazonaws.com/imersao-dev-3/bg.png');
+    background-image: url(./Imagem/pngegg.jpg);
     background-color: #000000;
     background-size: 60vh;
     background-position: center bottom;
@@ -35,8 +35,7 @@ body {
     text-align: center;
     position: relative;
     width: 300px;
-    top: -845px;
-
+    top: -850px;
   }
 
   .media-1{
@@ -59,3 +58,19 @@ body {
     width: 65px;
     height: 20px;
   }
+
+  .resultadoCalculado {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 210px;
+  }
+
+  .reprovado {
+    color: firebrick;
+    font-size: 30px;
+  }
+
+ .aprovado {
+  color: forestgreen;
+  font-size: 30px;
+ }
